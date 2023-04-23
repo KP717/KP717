@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KP717
-- 👀 I’m interested in ...Android development 
-- 🌱 I’m currently learning ...Android,Firebase,Reactjs,React Native
-- 💞️ I’m looking to collaborate on ...Aandroid
-- 📫 How to reach me ...mobile no 8446770717
+- 👋 Hi, I’m @Kumar Pawar
+- 👀 I’m interested in ...Mobile Application Development 
+- 🌱 I’m currently working as an Android and flutter developer
+- 💞️ I’m looking to collaborate on ...Android
+- 📫 How to reach me ...mobile no 9307896993
 
 <!---
 KP717/KP717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
